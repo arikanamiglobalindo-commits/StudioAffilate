@@ -1,0 +1,9 @@
+# Rahasia & data lokal — JANGAN di-commit (repo publik)
+.env
+m1_riset/data/*
+!m1_riset/data/.gitkeep
+m1_riset/sample_data/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
